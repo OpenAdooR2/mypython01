@@ -1,0 +1,1 @@
+print(f'สวัสดี {555} Wow wow wow {True}{999}Hi... {10+20}\n')
